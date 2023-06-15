@@ -90,3 +90,12 @@ tr:hover {background-color: coral;}
 .btn-option{
   display: flex;
 }
+
+.upload-file-container label{
+  display: block;
+
+}
+
+.upload-file-container{
+  padding: 15px;
+}
